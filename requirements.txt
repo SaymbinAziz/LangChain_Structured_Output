@@ -1,0 +1,16 @@
+# Environment Variable Management
+python-dotenv
+
+# LangChain Core
+langchain
+langchain-core
+
+# MistralAI Integration
+langchain-mistralai
+mistralai
+
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
